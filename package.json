@@ -1,25 +1,28 @@
 {
-  "name": "emitter-scope-relay",
-  "version": "0.1.0",
-  "description": "EventEmitter with ability to relay events into AngularJS scopes",
-  "main": "index.js",
-  "scripts": {
-    "test": "tape test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "bclinkinbeard/emitter-scope-relay"
-  },
-  "keywords": [
-    "emitter",
-    "events",
-    "AngularJS"
-  ],
-  "author": "Ben Clinkinbeard",
-  "license": "MIT",
-  "devDependencies": {
-    "tap": "~0.4.3",
-    "sinon": "~1.7.3",
-    "tape": "~1.0.4"
-  }
+	"name": "emitter-scope-relay",
+	"version": "0.1.0",
+	"description": "EventEmitter with ability to relay events into AngularJS scopes",
+	"main": "index.js",
+	"scripts": {
+		"test": "tape test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:bclinkinbeard/emitter-scope-relay.git"
+	},
+	"bugs": {
+		"url": "https://github.com/bclinkinbeard/emitter-scope-relay/issues"
+	},
+	"keywords": [
+		"emitter",
+		"events",
+		"AngularJS"
+	],
+	"author": "Ben Clinkinbeard",
+	"license": "MIT",
+	"devDependencies": {
+		"tap": "~0.4.3",
+		"sinon": "~1.7.3",
+		"tape": "~1.0.4"
+	}
 }

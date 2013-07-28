@@ -1,1 +1,1 @@
-Pass EventEmitter events to AngularJS scopes
+Relay EventEmitter events to AngularJS scopes
