@@ -1,6 +1,6 @@
 {
 	"name": "emitter-scope-relay",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "EventEmitter with ability to relay events into AngularJS scopes",
 	"main": "index.js",
 	"scripts": {
